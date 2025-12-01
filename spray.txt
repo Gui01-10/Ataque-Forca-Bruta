@@ -1,0 +1,3 @@
+password
+msfadmin
+123456
